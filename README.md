@@ -11,7 +11,7 @@ Your document must include images. To insert an image into your documentation, p
 
 Example:
 
-![Example of Freefall Mechanic](DocImages/1.png)
+![Example of Freefall Mechanic](DocImages/One.png)
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
@@ -21,6 +21,8 @@ What does the player learn? How does your encounter and broader level design fac
 
 In my level, the player is periodically introduced to new mechanics and aspects of the terrain, both shifting and changing in scope and difficulty as the player moves through the level itself. Specifically, the first discovery of moving platforms is introduced with a simple single platform, then the player is immediately put into a situation where they must rely on their newfound understanding around how the platforms move in unexpected directions and alternate speeds from one another. Much of the level relies on the player grasping different ways to counter these strangely moving platforms. The assumptions around the player's ability come into play whilst also allowing for necessary moments of agency and independent decision making in order to progress throughout the level, such as the portions where freefalling to an unseen portion of the map is required.
 
+![Example of Moving Platforms](DocImages/Two.png)
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?
 
@@ -29,10 +31,14 @@ Between portions of added difficulty and introduction of game mechanics I have o
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The level frequently presents the moving platforms as both the main challenge and guide for the player. By following a loose structure the moving platforms provide, the player is able to reach all checkpoints, items and enemies - all the way to the end of the level. I also incorporated the use of spikes to force the player to interact with certain objects such as forcing the use of the gun to defeat chompers in order to allow space for the player to land without taking damage. Furthermore, the player realises which weapons are appropriate for each of the enemies before reaching the aforementioned arena where they are faced with multiple enemy spawners at the same time. Acid is also used signifcantly throughout the entirety of the level as a foundation of danger for the player to continually avoid. In doing so, the player is immediately forced to pay attention to staying on all moving platforms and focus when several of the said platforms intersect. Use of checkpoints is also present to avoid frustration whenever a player is introduced to a new dynamic taking place that they may struggle with in order to balance the need to replay the difficult portion.
 
+![Example of Spike/Chomper Combo, forcing the player to defeat them to create safety in between spikes](DocImages/Three.png)
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+As mentioned in 1.1, there are several instances where the player finds themselves faced with a crossroads where the only way to progress is to freefall below and hope for a passthrough platform or bridge to be present. In image 1, the player reaches the precipice of the moving platform segment before completing the level and is given a moment of respite before realising there are no more moving platforms coming to guide them to safety, but only small portions of bridge that are periodically placed to at the very least guide them towards the final destination where they will find the final door. At other moments in the level, the player is also given the autonomy to take several different paths of moving platforms in order to reach the next portion of the map.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
