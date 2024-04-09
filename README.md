@@ -1,9 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
-
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
+### Name: Koray Zirh
+### Student number: 47543833
 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
@@ -13,13 +11,15 @@ Your document must include images. To insert an image into your documentation, p
 
 Example:
 
-![This is the alt text for an image!](DocImages/exampleimage.png)
+![Example of Freefall Mechanic](DocImages/1.png)
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+
+In my level, the player is periodically introduced to new mechanics and aspects of the terrain, both shifting and changing in scope and difficulty as the player moves through the level itself. Specifically, the first discovery of moving platforms is introduced with a simple single platform, then the player is immediately put into a situation where they must rely on their newfound understanding around how the platforms move in unexpected directions and alternate speeds from one another. Much of the level relies on the player grasping different ways to counter these strangely moving platforms. The assumptions around the player's ability come into play whilst also allowing for necessary moments of agency and independent decision making in order to progress throughout the level, such as the portions where freefalling to an unseen portion of the map is required.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
